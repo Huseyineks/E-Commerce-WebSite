@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace E_CommercieSite.PresentationLayer
+namespace E_CommerceSite.DataAccessLayer.Data
 {
-    public class Class1
+    public class ApplicationDbContext
     {
+
     }
 }
